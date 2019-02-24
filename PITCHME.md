@@ -1,4 +1,4 @@
----?image=assets/img/yamaki.jpg&opacity=50
+---?image=assets/img/yamaki2.jpg
 @title[toppage]
 
 # 開発合宿
