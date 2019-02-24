@@ -1,9 +1,10 @@
-# 2019/02 開発合宿
+---?image=assets/img/yamaki.jpg&opacity=50
+@title[toppage]
+
+# 開発合宿
+はじめるよ！
+
 2019/02/25-27 @ 山喜旅館
-
-George
-
-(A GitPitch-style report)
 
 ---
 
