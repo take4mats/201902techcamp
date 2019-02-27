@@ -31,20 +31,11 @@ Serverless x CI/CD
 
 +++
 
-### いろいろ工夫して (1/2)
+### 取り組む内容
 - CI/CD パイプラインを gitlab で組む
-  1. unit test ?
-  2. deployment by serverless framework
-  3. scenario test by Robot Framework w/ RESTinstance
-  4. stress test by Gatling ?
-
-+++
-
-### いろいろ工夫して (2/2)
-- remove Azure
-- refactor AWS
-  - resolve "hell of callback"
-  - other tweak
+- サーバレスのコードのリファクタリング
+  - remove Azure
+  - etc.
 
 ---
 
@@ -57,7 +48,9 @@ Serverless x CI/CD
 ### 出来たこと (summary)
 - (GitLab + GitLab-Runner) on EC2
 - CI/CD pipeline の構築 (build, local test, deploy, integration test)
+  - 一部テストは簡略化
 - 実コードのリファクタリング
+  - callback地獄の改善は未完
 
 +++
 
