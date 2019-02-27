@@ -73,7 +73,7 @@ Serverless x CI/CD
 +++
 
 ### CI/CD pipeline (コードのボリューム)
-```
+```yaml
 image: georgeorge/sls-centos:v8.10.0
 variables:
     AWS_REGION: ap-northeast-2
