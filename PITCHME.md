@@ -137,7 +137,7 @@ test:integration:  # define a job for integration test
 ### 振り返って
 - docker image: 苦戦したが、一度作れば本当にいろいろ捗る (immutable で環境が汚れない)
 - gitlab はツールチェインとしてかなり機能が多い (CI/CD pipeline 早速導入しよう)
-- 承認ボタン相当も作れるので、 **導入判断** (≒方式調整) もここで回せる！？
+- 承認ボタン相当も作れるので、 **リリース判断** もここで回せる！？
 
 ---
 
